@@ -14,7 +14,7 @@ public class ConvertSecondsToHourMinuteSeconds {
 		Hr = secound / 60;
 		Min = Hr % 60;
 		Hr = Hr / 60;
-		System.out.println(Hr + ":" + Min + ":" + Se);
+		System.out.println(Hr + " hours " + Min + " minutes " + Se +" seconds");
 		
 
 	}
