@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class ConvertSquareCubeAndfourthPower {
 	public static void main(String[] args) {
-		// Write a Java program that reads a number and display the square, cube, and
-		// fourth power
+		// Write a Java program that reads a number and display the square, cube, and fourth power
 		// Square = x * x
 		// Cube = x * x * X
 		// Forth power = x * x * x * x
