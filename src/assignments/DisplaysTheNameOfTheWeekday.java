@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class DisplaysTheNameOfTheWeekday {
 
 	public static void main(String[] args) {
-
+		//Write a Java program that keeps a number from the user and generates 
+		//an integer between 1 and 7 and displays the name of the weekday?
 
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the number:- ");
