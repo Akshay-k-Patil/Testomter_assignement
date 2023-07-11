@@ -9,9 +9,9 @@ public class FibonacchiSeries {
 		while (i <= n) {
 			System.out.print(FirstNum + " ");
 
-			int nextTerm = FirstNum + secoundnum;
+			int nextnum = FirstNum + secoundnum;
 			FirstNum = secoundnum;
-			secoundnum = nextTerm;
+			secoundnum = nextnum;
 
 			i++;
 
