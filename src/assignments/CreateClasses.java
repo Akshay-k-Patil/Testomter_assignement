@@ -2,19 +2,20 @@ package assignments;
 
 public class CreateClasses {
 
-	class Human {
+}
 
-	}
+class Human {
 
-	class laptop {
+}
 
-	}
+class laptop {
 
-	class SportMan {
+}
 
-	}
+class SportMan {
 
-	class TestCase {
+}
 
-	}
+class TestCase {
+
 }
