@@ -1,5 +1,7 @@
 package assignments;
 
+////	Write Code to get first 20 prime number? 
+
 public class First20PrimeNumbers {
 
 	static boolean isPrime(int num) {
