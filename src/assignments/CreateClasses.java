@@ -4,7 +4,7 @@ public class CreateClasses {
 
 }
 
-class Human {
+class human {
 
 }
 
@@ -12,10 +12,10 @@ class laptop {
 
 }
 
-class SportMan {
+class sportMan {
 
 }
 
-class TestCase {
+class testCase {
 
 }
