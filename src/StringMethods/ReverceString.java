@@ -1,7 +1,6 @@
 package StringMethods;
+
 import java.util.Scanner;
-
-
 
 public class ReverceString {
 
@@ -52,4 +51,3 @@ class reverceusingloop {
 	}
 
 }
-
