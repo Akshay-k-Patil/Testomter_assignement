@@ -11,10 +11,10 @@ public class DifferenceBetweenEquals {
 		String str3 = new String("Akshay");
 		
 		System.out.println(str1 == str2); // ans is true cz both points to the same memory location
-		System.out.println(str1 == str3); // ans is false cz we use new keyword so we created the location in memory
+		System.out.println(str1 == str3); // ans is false cz we use new keyword so we created the location in 
+
 		
 		System.out.println("-----------------------------------------------------------------------------------------------");
-		
 		
 		
 		// The .equals(....) will compare the content of the string and the "==" operator compares the reference point of memory.
