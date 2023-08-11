@@ -1,4 +1,4 @@
-package StringMethods;
+package stringMethods;
 
 import java.util.Scanner;
 
