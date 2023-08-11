@@ -4,8 +4,7 @@ public class UpperToLowerConversion {
 
 	public static void main(String[] args) {
 		String inputstring = "AbC#$dEf";
-		System.out.println(converUpperTolowserConversion(inputstring));
-		
+		System.out.println(converUpperTolowserConversion(inputstring));		
 
 	}
 	
